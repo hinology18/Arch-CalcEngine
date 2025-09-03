@@ -25,7 +25,7 @@ It’s meant to be educational and fun, not industry-level software.
 CalcEngine has three main sections:
 1. **F1 Car Section** – Explore calculations specific to Formula 1 cars.  
 2. **Sports Car Section** – Learn how high-performance road cars behave using real-world physics.
-3. 
+ 
 ---
 
 ## Previous Plans 
