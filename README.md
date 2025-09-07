@@ -16,7 +16,7 @@ This isn’t MATLAB or any professional engineering tool.
 It’s just a project I made to challenge myself and apply what I’ve learned in Python and automotive engineering.  
 It’s meant to be educational and fun, not industry-level software.
 
-**THE GRAPH SECTION IS SOMETHING I CANCELLED DUE TO A LACK OF PROPER YOUTUBE TUTORIALS AND NOT WANTING TO RELY ON AI PLEASE IGNORE IT**
+
 
 ---
 
